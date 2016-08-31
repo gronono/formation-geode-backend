@@ -9,5 +9,4 @@ public class GeodeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GeodeApplication.class, args);
 	}
-
 }
